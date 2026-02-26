@@ -233,10 +233,10 @@ star_df = pd.read_csv('https://drive.google.com/uc?id=1BQVc6MHjQFtDC9iP1isT_K4oj
 ## 👩‍💻 Author
 
 **Mubeena Hussain**
-MSc Statistics — University of Kerala
+MSc Statistics
 📧 mubeenahussain1205@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/mubeenahussain)
-🐙 [GitHub](https://github.com/YOUR-USERNAME)
+🔗 [LinkedIn](www.linkedin.com/in/mubeena-hussain-a357b920b)
+
 
 ---
 
